@@ -22,7 +22,7 @@ I’m open to collaborating on:
 - 🛠 Tool and process optimizations
 
 ### 📫 How to Reach Me:
-- LinkedIn: [Pankaj Shinde](https://linkedin.com/in/Pankaj1105)
+- LinkedIn: [Pankaj Shinde](https://www.linkedin.com/in/pankaj1100/)
 - Portfolio: [My Work](https://codebasics.io/portfolio/Pankaj-Shinde)
 
 Let’s connect and uncover new possibilities with data! ✨
