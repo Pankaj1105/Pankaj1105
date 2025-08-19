@@ -1,45 +1,55 @@
+## 👋 Hello! Welcome to My GitHub Profile
 
-## Hi there 👋 Welcome to My GitHub!
+I'm **Pankaj Shinde**, a dedicated **ServiceNow Developer & ITSM Specialist** with experience in building smart, scalable, and user-friendly enterprise solutions. I believe in making technology work *for* people by automating workflows and improving user experiences.
 
-I'm **Pankaj Shinde**, a passionate **Data Analyst** and **Business Intelligence Enthusiast** dedicated to transforming data into actionable insights. 🚀 
+---
 
-### 🌟 About Me:
-- 🛠 **Tools I Use**: Power BI, SQL, Excel, Python
-- 🔭 **Currently Working On**: Data visualization and automation projects
-- 🌱 **Learning**: Advanced analytics techniques and machine learning
-- 💡 **Goal**: Empower businesses with data-driven decisions
-- ⚡ **Fun Fact**: I believe every dataset tells a story waiting to be uncovered!
+### 🚀 About Me
 
-### 📈 Key Highlights:
-- 📊 Developed Power BI dashboards to analyze sales trends and improve customer satisfaction
-- 📉 Created data models to reduce financial risks by 15%
-- 🌐 Conducted analytics projects that influenced policy decisions
+- 💼 **Currently Working At**: Vadini Infocenter Pvt. Ltd. as a Consultant - ServiceNow
+- 🛠️ **Tech Stack**:
+  - ServiceNow (ITSM, ITSM Pro)
+  - JavaScript, HTML, CSS
+  - Flow Designer, UI Policies, Client Scripts, Business Rules
+- 🔗 **Integrations**: Workato - ServiceNow, Datadog - ServiceNow
+- 🧠 **Learning**: AI in ServiceNow, Predictive Intelligence, Automation Workflows, Task Intelligence
+- 💬 **Soft Skills**: Agile Delivery, Client Communication, Problem Solving, Requirement Gathering
 
-### 🤝 Let’s Collaborate:
-I’m open to collaborating on:
-- 📊 Data visualization projects
-- 📚 Analytics tutorials and workshops
-- 🛠 Tool and process optimizations
+---
 
-### 📫 How to Reach Me:
-- LinkedIn: [Pankaj Shinde](https://www.linkedin.com/in/pankaj1100/)
-- Portfolio: [My Work](https://codebasics.io/portfolio/Pankaj-Shinde)
+### 🛠 Key Highlights & Projects
 
-Let’s connect and uncover new possibilities with data! ✨
+#### 🔧 ServiceNow Instance Consolidation
+- Consolidated multiple ServiceNow instances, migrated business logic and data smoothly
+- Improved system efficiency through strategic customization
+- Appreciated by international stakeholders for timely delivery
 
-<!--
-## Hi there 👋
-**Pankaj1105/Pankaj1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📦 Devshop ITSM Enhancement
+- End-to-end project ownership — from design to deployment
+- Improved ITSM processes using automation and Task Intelligence
+- Created Service Catalogs and enhanced portal experience
 
-Here are some ideas to get you started:
+#### 🌐 Integrations: Workato & Datadog
+- Led the integration between ServiceNow and third-party tools (Workato, Datadog)
+- Enhanced automation, monitoring, and response capabilities
+- Followed best practices and earned client recognition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🏆 Achievements
+
+- 🏅 **"Pat On the Back" Award** for Professionalism and Technical Excellence
+
+---
+
+### 📚 Education
+
+**B.E. in Information Technology**  
+Finolex Academy of Management and Technology  
+*2018 - 2022*
+
+---
+
+### 🤝 Let’s Connect & Collaborate
+
+I'm open to contributing...
